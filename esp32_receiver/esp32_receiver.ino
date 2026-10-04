@@ -5,8 +5,8 @@
 #include <ArduinoJson.h>
 
 // CONFIGURATION
-const char *ssid = "ilovehcmute";
-const char *password = "910JQKA2";
+const char *ssid = "YOUR_WIFI_SSID";
+const char *password = "YOUR_WIFI_PASSWORD";
 const int mqtt_port = 1883;
 const char *mqtt_client_id = "esp32_receiver";
 const char *mqtt_topic_gesture = "gesture/command";

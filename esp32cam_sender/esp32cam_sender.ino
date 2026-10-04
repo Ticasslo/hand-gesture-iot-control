@@ -15,8 +15,8 @@
 // #define DEBUG_MODE
 
 // WiFi
-const char *ssid = "ilovehcmute";
-const char *password = "910JQKA2";
+const char *ssid = "YOUR_WIFI_SSID";
+const char *password = "YOUR_WIFI_PASSWORD";
 
 // Camera quality/FPS trade-off
 // HVGA (480x320) - cân bằng chất lượng và FPS
